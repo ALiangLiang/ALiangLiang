@@ -6,7 +6,7 @@
 The following is my profiles:
 
 - <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?raw=true" width="21" height="21" /> [LinkedIn](https://www.linkedin.com/in/aliangliang/)
-- 🎩 103 InfoSec reports on [HITCON ZeroDay](https://zeroday.hitcon.org/user/ALiangLiang/vulnerability) (Total rank #15 until 2020/8)
+- 🎩 103 InfoSec reports on [HITCON ZeroDay](https://zeroday.hitcon.org/user/ALiangLiang/vulnerability) ([Total rank #15](https://zeroday.hitcon.org/leaderboard/total) until 2020/8)
 
 Programming:
 

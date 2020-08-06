@@ -5,11 +5,11 @@
 
 The following is my profiles:
 
-- <img src="./.github/icons/linkedin.svg" width="21" height="21" /> [LinkedIn](https://www.linkedin.com/in/aliangliang/)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?raw=true" width="21" height="21" /> [LinkedIn](https://www.linkedin.com/in/aliangliang/)
 - 🎩 103 InfoSec reports on [HITCON ZeroDay](https://zeroday.hitcon.org/user/ALiangLiang/vulnerability) (Total rank #15 until 2020/8)
 
 Programming:
 
-- <img src="./.github/icons/javascript.svg" width="21" height="21" /> Javascript & <img src="./.github/icons/vue.svg" width="21" height="21" /> Vue
-- <img src="./.github/icons/nodejs.svg" width="21" height="21" /> Nodejs
-- <img src="./.github/icons/python.svg" width="21" height="21" /> Python
+- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?raw=true" width="21" height="21" /> Javascript & <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg?raw=true" width="21" height="21" /> Vue
+- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg?raw=true" width="21" height="21" /> Nodejs & <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg?raw=true" width="21" height="21" /> Sequelize
+- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" width="21" height="21" /> Python

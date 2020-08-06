@@ -1,6 +1,6 @@
 ### Hi, I'm Wei-Liang Liou(ALiangLiang)
 
-🎉 I'm an Software Engineer from Taiwan.
+🎉 I'm an Software Engineer from Taiwan.  
 🎓 Currently is NCTU CS master’s student
 
 

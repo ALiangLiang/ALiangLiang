@@ -2,7 +2,7 @@
 
 🎉 I'm a Software Engineer from Taiwan.  
 🎓 Currently is NCTU CS master’s student  
-📂 [Portfolio](portfolio/) (Traditiuon Chinese)
+📂 [Portfolio](portfolio/) (Traditional Chinese)
 
 The following is my profile:
 

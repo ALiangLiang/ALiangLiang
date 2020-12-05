@@ -1,7 +1,8 @@
 ### Hi, I'm **Wei-Liang Liou** (ALiangLiang)
 
 🎉 I'm a Software Engineer from Taiwan.  
-🎓 Currently is NCTU CS master’s student
+🎓 Currently is NCTU CS master’s student  
+📂 [Portfolio](portfolio/) (Traditiuon Chinese)
 
 The following is my profile:
 

@@ -2,44 +2,43 @@
 
 這裡陳列了**劉威良 Wei-Liang Liou**（a.k.a **ALiangLiang**）過去到現在較為有成果的創業與業餘專案。
 
-## [Goorder](goorder.md)
+<center> <h1><a href="goorder.md">Goorder</a></h1> </center>
 
 此專案是我個人於研究所期間發展的一個創業項目，想要為中小型餐飲業者解決建置「更容易為消費者使用」的線上訂餐平台，藉由聊天機器人避免使用者額外安裝 APP 與申請帳號，相比傳統 APP 與網頁服務，可以大幅增加使用者的使用意願與留存率。
 
 > 技術關鍵字：Node.js、Express.js、Vue.js、Chatbot（Messenger／LINE）、MySQL、Redis、RabbitMQ、CI/CD、Gitlab、GCP、GKE（K8S）、Helm Chart
 
-## [Counter for Messenger](counter-for-messenger.md) (page WIP)
+<center> <h1><a href="counter-for-messenger.md">Counter for Messenger</a> (page WIP)</h1> </center>
 
 這是大學時開發的 Chrome Extension，能夠收集使用者所有過往的 Messenger 訊息，加以統計並以圖表呈現。發布至今已累積 241360 次安裝，與 75516 最高單周使用次數。
 
 > 技術關鍵字：Chrome Extension、JavaScript、Vue.js、Chart.js、CSS、ElementUI、Webpack
 
-
-## [Talkany Messenger 匿名聊天平台](talkany.md) (page WIP)
+<center> <h1><a href="talkany.md">Talkany Messenger 匿名聊天平台</a> (page WIP)</h1> </center>
 
 Messenger Platform 剛開放使用時的一支聊天機器人創作，使用該平台來實作出匿名聊天功能，讓使用者能達成匿名配對與通訊，透過此機器人中介聊天圖文，相比傳統無會員制網頁競品，能讓使用者保存設定，並以此開發延伸功能，增加匿名聊天樂趣。
 
 > 技術關鍵字：Chatbot（Messenger）、Node.js、Express.js、Sequelize.js
 
-## [交大資工系計中 門禁系統](cscc-door-secruity-system.md) (page WIP)
+<center> <h1><a href="cscc-door-secruity-system.md">交大資工系計中 門禁系統</a> (page WIP)</h1> </center>
 
 於交大就讀研究所時期，於服務單位研發的門禁系統，整合既有的硬體（門禁讀卡機）與軟體（帳號系統、空間預約系統等），自行開發數款門禁讀卡機的共用 Python API。並且開發一套 Dependency Injection 與分層式架構的應用程式導向框架來提升程式碼品質，降低維護成本。
 
 > 技術關鍵字：Python3、SQLAlchemy、Dependency Injection
 
-## [Vue.js Webpack Chrome Extension Template](vue-webpack-chrome-extension-template) (page WIP)
+<center> <h1><a href="vue-webpack-chrome-extension-template.md">Vue.js Webpack Chrome Extension Template</a> (page WIP)</h1> </center>
 
 藉由開發多項 Vue.js 專案的經驗，結合 Chrome Extension 的熟悉度，開發了這套 Vue2/vue-cli2 template，整合多套常用套件與配置，如熱加載套件、Eslint、Webpack 等，能夠加速 Chrome Extension 開發。
 
 > 技術關鍵字：Chrome Extension、Vue.js、Webpack
 
-## [巴哈姆特動畫瘋 下載器](baha-anime-downloader.md) (page WIP)
+<center> <h1><a href="baha-anime-downloader.md">巴哈姆特動畫瘋 下載器</a> (page WIP)</h1> </center>
 
 課餘時期為了研究影像串流而開發的專案，嘗試使用 Node.js 來下載 M3U8 索引檔中列出的 MPEG-2 影像片段，串接後完成完整影像的下載。
 
 > 技術關鍵字：Node.js、M3U8
 
-## [(非官方) PChome API](pchome-api.md) (page WIP)
+<center> <h1><a href="pchome-api.md">(非官方) PChome API</a> (page WIP)</h1> </center>
 
 藉由 PChome 購物網站的 API，以及簡單地做了逆向，找到加密購物資訊的程式碼並加以使用，可以做到從「加進購物車」至「送出訂單」流程的自動化。
 

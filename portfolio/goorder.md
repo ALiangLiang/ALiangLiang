@@ -15,7 +15,7 @@
 
 ## 技術背景
 
-> 關鍵字：Node.js、Express.js、Vue.js、Chatbot（Messenger／LINE）、MySQL、Redis、RabbitMQ、CI/CD、Gitlab、GCP、GKE（K8S）、Helm Chart、GTM、Hotjar
+> 關鍵字：Node.js、Express.js、Vue.js、Chatbot（Messenger／LINE）、MySQL、Redis、RabbitMQ、CI/CD、Gitlab、GCP、GKE（K8S）、Helm Chart、Google Tag Manager、Hotjar
 
 採用 Node.js 來開發後端伺服器，並部署在 GCP 的 GKE（Google Kubernetes Engine） 上，程式碼托管在 Gitlab，透過 Gitlab 與自架的 CI server，來做 CI/CD。
 
@@ -43,13 +43,13 @@ Messenger 與 LINE 都提供 Webview 或類似功能，讓使用者的聊天室�
 
 此網頁後台還可直接整合店家的熱感應印表機，直接從網頁輸出收據、出菜單至印表機，不須額外安裝 APP。
 
-## 使用者操作追蹤
+## 使用者行為追蹤
 
 ### Hotjar
 
-為了能夠追蹤使用者的使用狀況，可以訪問使用者的使用心得，但此舉無法更深入的瞭解使用者不經心的詳細操作步驟，所以採用 Hotjar 服務來追蹤使用者個別於網頁的操作過程，這讓團隊能判斷使用者對前端使用過程中的弊病，並加以處理來提升使用者體驗。
+為了能夠追蹤使用者的使用狀況，一般可以訪問使用者的使用心得，但此舉無法更深入的瞭解使用者不經心的詳細操作步驟，所以採用 Hotjar 服務來追蹤使用者個別於網頁的詳細操作過程，如熱點地圖、行為錄製，這讓團隊能判斷使用者對前端使用過程中的弊病，並加以處理來提升使用者體驗。
 
-### GTM
+### Google Tag Manager(GTM)
 
 除了 Hotjar，我們也採用 GTM 來大範圍追蹤使用者是否按照介面設計初衷來操作，並且統計出成功購物的機率等資訊，協助我們改善介面設計，並且成為我們提供新功能的判斷依據。
 

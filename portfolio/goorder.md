@@ -47,6 +47,8 @@ Messenger 與 LINE 都提供 Webview 或類似功能，讓使用者的聊天室�
 
 Gitlab 本身有跟 GKE 作整合，所以省去 CI/CD 伺服器至 GKE 間的通訊配置，這也是採用 Gitlab 與 GKE 的其中一個原因，
 
+在環境上也分成 Production、Staging、Testing 三種層級互相隔離，除了能夠避免汙染正式環境，也能夠將 Staging 環境作為 DEMO 展示給有興趣的店家試用。
+
 ## 未來發展
 
 ### 訊息發送中心

@@ -12,8 +12,7 @@
 
 這是大學時開發的 Chrome Extension，能夠收集使用者所有過往的 Messenger 訊息，加以統計並以圖表呈現。發布至今已累積 241360 次安裝，與 75516 最高單周使用次數。
 
-> 技術關鍵字：Chrome Extension、JavaScript、Vue.js、Chart.js、CSS、ElementUI、Webpack
-
+> 技術關鍵字：Chrome Extension、JavaScript、Vue.js、Chart.js、IndexedDB、CSS、ElementUI、Webpack
 
 ## [Talkany Messenger 匿名聊天平台](talkany.md) (WIP)
 

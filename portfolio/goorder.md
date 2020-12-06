@@ -21,7 +21,7 @@
 
 ## 系統架構
 
-![goorder structure](/.github/portfolio/goorder-structure.png)
+![goorder structure](assets/goorder-structure.png)
 
 這套系統會分成四支服務：
 

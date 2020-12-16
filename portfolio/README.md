@@ -8,7 +8,7 @@
 
 > 技術關鍵字：Node.js、Express.js、Vue.js、Chatbot（Messenger／LINE）、MySQL、Redis、RabbitMQ、CI/CD、Gitlab、GCP、GKE（K8S）、Helm Chart
 
-## [Counter for Messenger](counter-for-messenger.md) (WIP)
+## [Counter for Messenger](counter-for-messenger.md)
 
 這是大學時開發的 Chrome Extension，能夠收集使用者所有過往的 Messenger 訊息，加以統計並以圖表呈現。發布至今已累積 241360 次安裝，與 75516 最高單周使用次數。
 
@@ -26,7 +26,9 @@ Messenger Platform 剛開放使用時的一支聊天機器人創作，使用該�
 
 > 技術關鍵字：Python3、SQLAlchemy、Dependency Injection
 
-## [Vue.js Webpack Chrome Extension Template](vue-webpack-chrome-extension-template.md) (WIP)
+## [Vue.js Webpack Chrome Extension Template](vue-webpack-chrome-extension-template.md)
+
+使用 Vue-CLI 來建立基於 Vue.js 2 的 Chrome Extension 專案模板，已經包好 Webpack 與 Hot-reload 開發環境，可以讓開發者可以快速建立他們多語系的 Chrome Extension。
 
 > 技術關鍵字：Chrome Extension、Vue.js、Webpack
 

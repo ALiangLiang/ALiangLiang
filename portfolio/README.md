@@ -32,7 +32,9 @@ Messenger Platform 剛開放使用時的一支聊天機器人創作，使用該�
 
 > 技術關鍵字：Chrome Extension、Vue.js、Webpack
 
-## [巴哈姆特動畫瘋 下載器](baha-anime-downloader.md) (WIP)
+## [巴哈姆特動畫瘋 下載器](baha-anime-downloader.md)
+
+基於學習目的，嘗試開發一套巴哈姆特動畫瘋的影音串流下載，以 Node.js 來開發的 CLI 工具。
 
 > 技術關鍵字：Node.js、M3U8
 

@@ -8,7 +8,7 @@
 
 > 技術關鍵字：Node.js、Express.js、Vue.js、Chatbot（Messenger／LINE）、MySQL、Redis、RabbitMQ、CI/CD、Gitlab、GCP、GKE（K8S）、Helm Chart
 
-## [Counter for Messenger](counter-for-messenger.md)
+## [Counter for Messenger](counter-for-messenger.md) [![GitHub Repo stars](https://img.shields.io/github/stars/ALiangLiang/counter-for-messenger?style=social)](https://GitHub.com/ALiangLiang/counter-for-messenger/stargazers/)
 
 這是大學時開發的 Chrome Extension，能夠收集使用者所有過往的 Messenger 訊息，加以統計並以圖表呈現。發布至今已累積 241360 次安裝，與 75516 最高單周使用次數。
 
@@ -26,13 +26,13 @@ Messenger Platform 剛開放使用時的一支聊天機器人創作，使用該�
 
 > 技術關鍵字：Python3、SQLAlchemy、Dependency Injection
 
-## [Vue.js Webpack Chrome Extension Template](vue-webpack-chrome-extension-template.md)
+## [Vue.js Webpack Chrome Extension Template](vue-webpack-chrome-extension-template.md) [![GitHub Repo stars](https://img.shields.io/github/stars/ALiangLiang/vue-webpack-chrome-extension-template?style=social)](https://GitHub.com/ALiangLiang/vue-webpack-chrome-extension-template/stargazers/)
 
 使用 Vue-CLI 來建立基於 Vue.js 2 的 Chrome Extension 專案模板，已經包好 Webpack 與 Hot-reload 開發環境，可以讓開發者可以快速建立他們多語系的 Chrome Extension。
 
 > 技術關鍵字：Chrome Extension、Vue.js、Webpack
 
-## [巴哈姆特動畫瘋 下載器](baha-anime-downloader.md)
+## [巴哈姆特動畫瘋 下載器](baha-anime-downloader.md) [![GitHub Repo stars](https://img.shields.io/github/stars/ALiangLiang/baha-anime-downloader?style=social)](https://GitHub.com/ALiangLiang/baha-anime-downloader/stargazers/)
 
 基於學習目的，嘗試開發一套巴哈姆特動畫瘋的影音串流下載，以 Node.js 來開發的 CLI 工具。
 
@@ -40,7 +40,7 @@ Messenger Platform 剛開放使用時的一支聊天機器人創作，使用該�
 
 ## [(非官方) PChome API](pchome-api.md) (WIP)
 
-### Node.js 版
+### Node.js 版 [![GitHub Repo stars](https://img.shields.io/github/stars/ALiangLiang/pchome-api?style=social)](https://GitHub.com/ALiangLiang/pchome-api/stargazers/)
 
 > 技術關鍵字：Node.js、Crypto.js
 

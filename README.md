@@ -1,4 +1,4 @@
-### Hi, I'm **Wei-Liang Liou** (ALiangLiang)
+### Hi, I'm **Wei-Liang Liou** (ALiangLiang) [![GitHub followers](https://img.shields.io/github/followers/ALiangLiang?style=social)](https://github.com/ALiangLiang?tab=followers)
 
 🎉 I'm a Software Engineer from Taiwan.  
 🎓 Currently is NCTU CS master’s student  

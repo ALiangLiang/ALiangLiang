@@ -14,13 +14,13 @@
 
 > 技術關鍵字：Chrome Extension、JavaScript、Vue.js、Chart.js、IndexedDB、CSS、ElementUI、Webpack
 
-## [Talkany Messenger 匿名聊天平台](talkany.md) (WIP)
+## [Talkany Messenger 匿名聊天平台](talkany.md) (Doc WIP)
 
 Messenger Platform 剛開放使用時的一支聊天機器人創作，使用該平台來實作出匿名聊天功能，讓使用者能達成匿名配對與通訊，透過此機器人中介聊天圖文，相比傳統無會員制網頁競品，能讓使用者保存設定，並以此開發延伸功能，增加匿名聊天樂趣。
 
 > 技術關鍵字：Chatbot（Messenger）、Node.js、Express.js、Sequelize.js
 
-## [交大資工系計中 門禁系統](cscc-door-secruity-system.md) (WIP)
+## [交大資工系計中 門禁系統](cscc-door-secruity-system.md) (Doc WIP)
 
 於交大就讀研究所時期，於服務單位研發的門禁系統，整合既有的硬體（門禁讀卡機）與軟體（帳號系統、空間預約系統等），自行開發數款門禁讀卡機的共用 Python API。並且開發一套 Dependency Injection 與分層式架構的應用程式導向框架來提升程式碼品質，降低維護成本。
 
@@ -38,13 +38,19 @@ Messenger Platform 剛開放使用時的一支聊天機器人創作，使用該�
 
 > 技術關鍵字：Node.js、M3U8
 
-## [(非官方) PChome API](pchome-api.md) (WIP)
+## [(非官方) PChome API](pchome-api.md) (Doc WIP)
+
+此專案包裝 PChome 購物平台 HTTP API 成 Python 與 Node.js 版本 API，透過它可以做到程式化加入購物車至送出訂單的完整流程。
 
 ### Node.js 版 [![GitHub Repo stars](https://img.shields.io/github/stars/ALiangLiang/pchome-api?style=social)](https://GitHub.com/ALiangLiang/pchome-api/stargazers/)
+
+此為開源專案，藉由簡單的逆向工程，從混淆的程式碼取出相關部分，搭配實際探測出的 HTTP 請求，製作成 Node.js 的 API 套件。
 
 > 技術關鍵字：Node.js、Crypto.js
 
 ### Python 版
+
+此專案為 Python 撰寫的版本，功能與 Node.js 一致，但為外包專案故未開源。在開發上需整個移植 Node.js 程式碼，並需要完整移植加密訂單資料所需的加密方式。
 
 > 技術關鍵字：Python3、PyCryptodome
 

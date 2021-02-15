@@ -1,7 +1,7 @@
 ### Hi, I'm **Wei-Liang Liou** (ALiangLiang) [![GitHub followers](https://img.shields.io/github/followers/ALiangLiang?style=social)](https://github.com/ALiangLiang?tab=followers)
 
 🎉 I'm a Software Engineer from Taiwan.  
-🎓 Graduated from NCTU with a master degree in CS.
+🎓 Graduated from NCTU with a master degree in CS.  
 📂 [Portfolio](portfolio/README.md) (Traditional Chinese)
 
 The following is my profile:

@@ -2,7 +2,7 @@
 <table><tr>
     <td valign="top" width="50%">
       
-🎉 I'm a Software Engineer from Taiwan.  
+🎉 I'm a Web Engineer from Taiwan.  
 🎓 Graduated from NCTU with a master degree in CS.  
 📂 [Portfolio](portfolio/README.md) (Traditional Chinese)  
 

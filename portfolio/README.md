@@ -8,6 +8,19 @@
 
 > 技術關鍵字：Node.js、Express.js、Vue.js、Chatbot（Messenger／LINE）、MySQL、Redis、RabbitMQ、CI/CD、Gitlab、GCP、GKE（K8S）、Helm Chart
 
+## [DineOneOne](https://www.dineoneone.com.tw/)
+
+在 DineOneOne inc. 擔任全端工程師時，與其他兩位工程師與設計師共同開發的美食社群平台，透過此平台可以讓使用者分享、收藏、評論美食，並且透過搜尋功能找到附近的美食店家。
+技術上考量快速開發、低成本，採用 Firebase 為基礎設施，並且使用 Vue.js 搭配 PWA/TWA，快速打造為跨網頁與行動裝置的應用程式，後端則使用 Python in Firebase Cloud Functions 來處理商業邏輯。
+
+> 技術關鍵字：Vue.js、Python、Firebase、PWA、TWA
+
+## Grab & Go
+
+在 DineOneOne inc. 後期開發的另一套低成本點餐機系統，藉由數台 Android 平板電腦作為櫃台端、點餐機，也開發了店家專用控制台網頁，採用 Firebase 作為基礎設施，並且使用 React.js 搭配 PWA/TWA，快速打造廚房端行動應用程式。
+
+> 技術關鍵字：React.js、Firebase、PWA、TWA
+
 ## [Counter for Messenger](counter-for-messenger.md) [![GitHub Repo stars](https://img.shields.io/github/stars/ALiangLiang/counter-for-messenger?style=social)](https://GitHub.com/ALiangLiang/counter-for-messenger/stargazers/)
 
 這是大學時開發的 Chrome Extension，能夠收集使用者所有過往的 Messenger 訊息，加以統計並以圖表呈現。發布至今已累積 241360 次安裝，與 75516 最高單周使用次數。

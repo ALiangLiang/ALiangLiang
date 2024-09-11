@@ -17,9 +17,10 @@
 
 ## Grab & Go
 
-在 DineOneOne inc. 後期開發的另一套低成本點餐機系統，藉由數台 Android 平板電腦作為櫃台端、點餐機，也開發了店家專用控制台網頁，採用 Firebase 作為基礎設施，並且使用 React.js 搭配 PWA/TWA，快速打造廚房端行動應用程式。
+在 DineOneOne inc. 後期開發的另一套低成本點餐機系統，藉由數台 Android 平板電腦作為櫃台端、點餐機，也開發了店家專用控制台網頁，採用 Firebase 作為基礎設施，並且使用 React.js 搭配 PWA/TWA，快速打造基於網頁技術的廚房端行動應用程式。
+廚房端 Web APP 也在無採用函式庫與 SDK 的情況下，使用 WebUSB API 成功利用 USB 熱感應印表機印出訂單，無須花費大量成本與風險開發原生 APP。
 
-> 技術關鍵字：React.js、Firebase、PWA、TWA
+> 技術關鍵字：React.js、Firebase、PWA、TWA、WebUSB API
 
 ## [Counter for Messenger](counter-for-messenger.md) [![GitHub Repo stars](https://img.shields.io/github/stars/ALiangLiang/counter-for-messenger?style=social)](https://GitHub.com/ALiangLiang/counter-for-messenger/stargazers/)
 

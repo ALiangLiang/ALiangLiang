@@ -45,6 +45,12 @@ https://www.dineoneone.com.tw/
 
 ## 困難點
 
+### Github Action 消耗過多預算
+
+我們的開發流程是每個 commit 皆會經過 code linting、type checking 與 unit test，在 CI/CD 建置完成後一個月，發現大幅超出額度。  
+故我立即在自有機器上架設臨時 self-hosted runner 來應急，並著手開始優化。我們專案是 monorepo，所以有數個子專案在內部互相依賴，透過調整設定後，只會有該 commit 有變動過的子專案會跑 CI/CD 流程。  
+最後大幅減少 65% 的預算消耗，讓我們能夠在額度內穩定開發。
+
 ## Screenshots
 
 <img src="assets/dineoneone-index.png" alt="首頁" width="30%">

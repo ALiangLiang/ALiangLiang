@@ -8,7 +8,7 @@
 
 > 技術關鍵字：Node.js、Express.js、Vue.js、Chatbot（Messenger／LINE）、MySQL、Redis、RabbitMQ、CI/CD、Gitlab、GCP、GKE（K8S）、Helm Chart
 
-## [DineOneOne](https://www.dineoneone.com.tw/)
+## [DineOneOne](dineoneone.md)
 
 在 DineOneOne inc. 擔任全端工程師時，與其他兩位工程師與設計師共同開發的美食社群平台，透過此平台可以讓使用者分享、收藏、評論美食，並且透過搜尋功能找到附近的美食店家。
 技術上考量快速開發、低成本，採用 Firebase 為基礎設施，並且使用 Vue.js 搭配 PWA/TWA，快速打造為跨網頁與行動裝置的應用程式，後端則使用 Python in Firebase Cloud Functions 來處理商業邏輯。

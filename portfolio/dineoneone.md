@@ -25,7 +25,7 @@ https://www.dineoneone.com.tw/
 - Vue.js
 - PWA/TWA
 - Vue Router
-- Vuex
+- Pinia
 
 ### 後端
 

@@ -13,7 +13,7 @@ The following is my profile:
 
 Programming:
 
-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?raw=true" width="21" height="21" /> Javascript & <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg?raw=true" width="21" height="21" /> Vue
+- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg?raw=true" width="21" height="21" /> TypeScript & <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg?raw=true" width="21" height="21" /> Vue
 - <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg?raw=true" width="21" height="21" /> Nodejs & <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg?raw=true" width="21" height="21" /> Sequelize
 - <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" width="21" height="21" /> Python
     </td>
